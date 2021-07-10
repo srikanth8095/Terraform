@@ -1,4 +1,3 @@
-## Course Modules
 01. Infrastructure as Code (IaC)
 02. Install Tools on MacOs, LinuxOS and WindowsOS
 03. Command Basics
