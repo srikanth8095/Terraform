@@ -1,6 +1,3 @@
-# HashiCorp Certified: Terraform Associate - 50 Practical Demos
-[![Image](https://stacksimplify.com/course-images/hashicorp-certified-terraform-associate-highest-rated.png "HashiCorp Certified: Terraform Associate - 50 Practical Demos")](https://links.stacksimplify.com/hashicorp-certified-terraform-associate)
-
 ## Course Modules
 01. Infrastructure as Code (IaC)
 02. Install Tools on MacOs, LinuxOS and WindowsOS
